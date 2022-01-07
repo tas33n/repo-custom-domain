@@ -1,4 +1,4 @@
-<h1 align="center">Custom Domain for Gh Pages</h1>
+<h1 align="center">Custom Domain for Github Pages</h1>
 <h3 align="center">get free custom domain for your github pages for free 😁.</h3>
 ---
 
