@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img alt="Layout" src="rv.png">
+  <img alt="Layout" src="pages.png">
 </p>
 
 ---
@@ -18,21 +18,21 @@
 
 ## Currently Active Domains
 <br>
-1 -> termux.cf Active <span style="color:green">some *blue* text</span>  <br>
-2 -> bdgit.gq Active <br>
-3 -> bdgit.ml Active <br>
-4 -> bdgit.tk Active <br>
-5 -> ghub.gq Active <br>
-6 -> tmuxbd.tk Active <br>
-7 -> piru.cf Active <br>
-8 -> piru.ga Active <br>
-9 -> piru.ml Active <br>
-10 -> piru.tk Active <br>
-11 -> tmuxbd.ml Active <br>
-12 -> bdgit.ga Active <br>
-13 -> tmuxbd.cf Active <br>
-14 -> tmuxbd.ga Active <br>
-15 -> tmuxbd.gq Active <br>
+1 -> termux.cf | ---: <span style="color:green"> 	✅Active</span>  <br>
+2 -> bdgit.gq | <span style="color:green"> 	✅Active</span> <br>
+3 -> bdgit.ml | <span style="color:green">	✅Active</span> <br>
+4 -> bdgit.tk <span style="color:green"> 	✅Active</span> <br>
+5 -> ghub.gq <span style="color:green"> 	✅Active</span> <br>
+6 -> tmuxbd.tk <span style="color:green"> 	✅Active</span> <br>
+7 -> piru.cf <span style="color:green"> 	✅Active</span> <br>
+8 -> piru.ga <span style="color:green"> 	✅Active</span> <br>
+9 -> piru.ml <span style="color:green"> 	✅Active</span> <br>
+10 -> piru.tk <span style="color:green"> 	✅Active</span> <br>
+11 -> tmuxbd.ml <span style="color:green"> 	✅Active</span> <br>
+12 -> bdgit.ga <span style="color:green"> 	✅Active</span> <br>
+13 -> tmuxbd.cf <span style="color:green"> 	✅Active</span> <br>
+14 -> tmuxbd.ga <span style="color:green"> 	✅Active</span> <br>
+15 -> tmuxbd.gq <span style="color:green"> 	✅Active</span> <br>
 
 <br><br>
 **Let me know if face any problem**
