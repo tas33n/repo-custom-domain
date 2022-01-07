@@ -18,7 +18,7 @@
 
 ## Currently Active Domains
 <br>
-1 -> termux.cf Active <span style="color:blue">some *blue* text</span>  <br>
+1 -> termux.cf Active <span style="color:green">some *blue* text</span>  <br>
 2 -> bdgit.gq Active <br>
 3 -> bdgit.ml Active <br>
 4 -> bdgit.tk Active <br>
