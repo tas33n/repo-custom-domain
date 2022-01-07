@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img alt="Layout" src="pages.png">
+  <img alt="Layout" src="pages.jpg">
 </p>
 
 ---
