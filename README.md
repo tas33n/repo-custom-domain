@@ -14,7 +14,7 @@
 - Then in custom domain section, Enter a custom domain from Below with sub domain. 
 - Example 'repo.termux.cf'
 - wait few minit and visit the link..😁😁 enjoy
-- All domains are cloud flare protected, so need to worry..
+- All domains are cloud flare protected, so no need to worry..
 
 ## Currently Active Domains
 <br>
