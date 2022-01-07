@@ -18,21 +18,21 @@
 
 ## Currently Active Domains
 <br>
-1 -> termux.cf | ---: <span style="color:green"> 	✅Active</span>  <br>
-2 -> bdgit.gq | <span style="color:green"> 	✅Active</span> <br>
-3 -> bdgit.ml | <span style="color:green">	✅Active</span> <br>
-4 -> bdgit.tk <span style="color:green"> 	✅Active</span> <br>
-5 -> ghub.gq <span style="color:green"> 	✅Active</span> <br>
-6 -> tmuxbd.tk <span style="color:green"> 	✅Active</span> <br>
-7 -> piru.cf <span style="color:green"> 	✅Active</span> <br>
-8 -> piru.ga <span style="color:green"> 	✅Active</span> <br>
-9 -> piru.ml <span style="color:green"> 	✅Active</span> <br>
-10 -> piru.tk <span style="color:green"> 	✅Active</span> <br>
-11 -> tmuxbd.ml <span style="color:green"> 	✅Active</span> <br>
-12 -> bdgit.ga <span style="color:green"> 	✅Active</span> <br>
-13 -> tmuxbd.cf <span style="color:green"> 	✅Active</span> <br>
-14 -> tmuxbd.ga <span style="color:green"> 	✅Active</span> <br>
-15 -> tmuxbd.gq <span style="color:green"> 	✅Active</span> <br>
+1 -> termux.cf ---: <span style="color:green"> 	✅Active</span>  <br>
+2 -> bdgit.gq ---: <span style="color:green"> 	✅Active</span> <br>
+3 -> bdgit.ml ---: <span style="color:green">	✅Active</span> <br>
+4 -> bdgit.tk ---: <span style="color:green"> 	✅Active</span> <br>
+5 -> ghub.gq <span style="color:green"> 	---:✅Active</span> <br>
+6 -> tmuxbd.tk <span style="color:green"> 	---:✅Active</span> <br>
+7 -> piru.cf <span style="color:green"> 	---:✅Active</span> <br>
+8 -> piru.ga <span style="color:green"> 	---:✅Active</span> <br>
+9 -> piru.ml <span style="color:green"> 	---:✅Active</span> <br>
+10 -> piru.tk <span style="color:green"> 	---:✅Active</span> <br>
+11 -> tmuxbd.ml <span style="color:green"> 	---:✅Active</span> <br>
+12 -> bdgit.ga <span style="color:green"> 	---:✅Active</span> <br>
+13 -> tmuxbd.cf <span style="color:green"> 	---:✅Active</span> <br>
+14 -> tmuxbd.ga <span style="color:green"> 	---:✅Active</span> <br>
+15 -> tmuxbd.gq <span style="color:green"> 	---:✅Active</span> <br>
 
 <br><br>
 **Let me know if face any problem**
