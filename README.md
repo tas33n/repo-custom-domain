@@ -38,4 +38,4 @@
 **Let me know if face any problem**
 
 ---
-All assets and free Domain provided by :wave: [Farhan Isteak Taseen ](https://tas33n.github.io/)
+All assets and free Domain provide and maintain by :wave: [Farhan Isteak Taseen ](https://tas33n.github.io/)
